@@ -23,7 +23,7 @@
 ## Usage  
 ### Syntax  
 ```bash
-./zalgo.sh [-c <0-255|crazy>] [-l <0-100>] [-n] <text>
+./zalgo.sh [-c <ANSI 256color|crazy>] [-l <0-100>] [-n] <text>
 ```  
 
 ### Parameters  
