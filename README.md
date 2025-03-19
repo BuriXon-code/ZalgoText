@@ -32,7 +32,7 @@
 - `-n` → Disables automatic newlines.  
 - `<text>` → The text to be transformed into Zalgo text.  
 
-![screenshot](/img1.jpg)  
+![screenshot](/img2.jpg)  
 
 ### Examples  
 #### Default usage  
@@ -56,7 +56,7 @@
 ./zalgo.sh -n "Inline Zalgo"
 ```
 
-![screenshot](/img1.jpg)  
+![screenshot](/img3.jpg)  
 
 
 > [!NOTE]
